@@ -1,19 +1,20 @@
 # new_imp
-## 🗺️ Feature Progress
+## 🗺️ Roadmap Timeline
 
 ```mermaid
-flowchart TB
-    subgraph Completed
-        A[Web Crawling]
-        B[SEO Extraction]
-    end
+gantt
+    title Project Roadmap
+    dateFormat  YYYY-MM-DD
 
-    subgraph In Progress
-        C[Map Extraction API]
-    end
+    section Core Features
+    Web Crawler           :done,    a1, 2025-01-01, 30d
+    SEO Extraction        :done,    a2, 2025-02-01, 20d
 
-    subgraph Planned
-        D[AI Insights]
-        E[Dashboard UI]
-    end
+    section Enhancements
+    Map Extraction API    :active,  a3, 2025-03-01, 25d
+    Excel Export          :         a4, after a3, 20d
+
+    section Future
+    AI Insights           :         a5, 2025-05-01, 30d
+    Dashboard UI          :         a6, 2025-06-01, 40d
 ```
