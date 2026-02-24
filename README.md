@@ -1,52 +1,65 @@
-## 🗺️ GcrawlAI Roadmap
+<h2 align="center">🗺️ GcrawlAI Development Roadmap</h2>
 
-### ✅ Completed Core Features
-- ✔ Website Crawler Engine
-- ✔ Smart Web Scraping
-- ✔ Internal & External Link Extraction
-- ✔ SEO Metadata Extraction
-
----
-
-### 🚧 Upcoming Features
-
-#### 🔍 Search & Intelligence
-- [ ] Advanced Search Functionality
-- [ ] Scrape + LLM Data Understanding
-- [ ] AI Agent Summary Generation
-
-#### 🛒 E-commerce Intelligence
-- [ ] Flipkart Product Detail Extraction
-- [ ] Price, Ratings & Availability Insights
-
-#### ✈️ Travel Data Extraction
-- [ ] Flight Price Extraction
-- [ ] Route & Fare Insights
+<p align="center">
+  <img src="https://img.shields.io/badge/Core-Completed-brightgreen">
+  <img src="https://img.shields.io/badge/Upcoming-Features-blue">
+  <img src="https://img.shields.io/badge/AI-Powered-purple">
+  <img src="https://img.shields.io/badge/Open%20Source-Community-orange">
+</p>
 
 ---
 
-## 🚀 Development Flow
+## ✅ Core Engine (Completed)
+
+🟢 <b>Scrape Engine</b>  
+🟢 <b>Website Crawling</b>  
+🟢 <b>Link Extraction</b>  
+🟢 <b>SEO Metadata Extraction</b>  
+
+---
+
+## 🚧 Upcoming Intelligence Features
+
+### 🔍 Search & AI Understanding
+🔵 Advanced Search Functionality  
+🔵 Scrape + LLM Data Understanding  
+🔵 AI Agent Summary Generation  
+
+### 🛒 E-commerce Intelligence
+🟣 Flipkart Product Detail Extraction  
+🟣 Price • Ratings • Availability Insights  
+
+### ✈️ Travel Intelligence
+🟠 Flight Price Extraction  
+🟠 Route & Fare Insights  
+
+---
+
+## 🚀 Evolution Path
 
 ```mermaid
 flowchart LR
-    A[Scrape & Crawl Engine ✅] --> B[Search Functionality]
-    B --> C[LLM Data Understanding]
-    C --> D[Agent Summary]
-    D --> E[Product Intelligence]
-    E --> F[Flight Price Extraction]
+    A[🌐 Crawl & Scrape ✅] --> B[🔍 Search Engine]
+    B --> C[🧠 LLM Understanding]
+    C --> D[🤖 Agent Summaries]
+    D --> E[🛒 Product Intelligence]
+    E --> F[✈️ Flight Price Insights]
 ```
 
 ---
 
-## 🎯 Vision
+## 🎯 Project Vision
 
-GcrawlAI is evolving from a **web scraping engine** into an **AI-powered data intelligence platform** capable of:
+> Transforming web data into **AI-powered intelligence**  
+> for developers, businesses, and automation workflows.
 
-✔ Extracting structured web data  
-✔ Understanding content using LLMs  
-✔ Delivering actionable insights  
-✔ Supporting e-commerce & travel intelligence  
+✨ Extract structured data  
+✨ Understand content using AI  
+✨ Deliver actionable insights  
+✨ Expand into commerce & travel intelligence  
 
 ---
 
-⭐ Stay tuned for exciting updates!
+<p align="center">
+⭐ <b>If you like this project, give it a star!</b> ⭐
+</p>
