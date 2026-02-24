@@ -1,29 +1,16 @@
-## 🗺️ GcrawlAI Roadmap
-
-```mermaid
-flowchart TB
-    A[🌐 Core Engine ✅<br/>Scrape • Crawl • Links • SEO] 
-    --> B[🔍 Search Functionality]
-    --> C[🧠 Scrape + LLM Understanding]
-    --> D[🤖 Agent Summary Generation]
-    --> E[🛒 Flipkart Product Extraction]
-    --> F[✈️ Flight Price Extraction]
-```
-
----
+## 🗺️ Development Progress
 
 ### ✅ Completed
-- Scraping Engine  
-- Website Crawling  
-- Link Extraction  
-- SEO Metadata Extraction  
+- Scrape Engine
+- Crawl Engine
+- Link Extraction
+- SEO Extraction
 
-### 🚧 Upcoming
-- Search Functionality  
-- Scrape + LLM Integration  
-- AI Agent Summary  
-- Flipkart Product Details Extraction  
-- Flight Price Extraction  
+### 🚧 In Progress
+- Search Functionality
 
----
-⭐ More intelligent data extraction features coming soon!
+### 🔜 Upcoming
+- Scrape + LLM Integration
+- Agent Summary
+- Flipkart Product Extraction
+- Flight Price Extraction
