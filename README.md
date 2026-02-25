@@ -1,43 +1,19 @@
-## 🗺️ GcrawlAI Evolution Roadmap
+## 🗺️ Roadmap Timeline
 
 ```mermaid
-flowchart LR
-    A([🌐 Core Engine]):::done --> B([🔍 Search])
-    B --> C([🧠 LLM Understanding])
-    C --> D([🤖 Agent Summary])
-    D --> E([🛒 Product Intelligence])
-    E --> F([✈️ Flight Price Insights])
+gantt
+    title Project Roadmap
+    dateFormat  YYYY-MM-DD
 
-    classDef done fill:#22c55e,color:#ffffff,stroke:#16a34a,stroke-width:2px;
-    classDef active fill:#3b82f6,color:#ffffff,stroke:#2563eb,stroke-width:2px;
-    classDef upcoming fill:#e5e7eb,color:#111827,stroke:#9ca3af,stroke-width:2px;
+    section Core Features
+    Web Crawler           :done,    a1, 2025-01-01, 30d
+    SEO Extraction        :done,    a2, 2025-02-01, 20d
 
-    class A done;
-    class B active;
-    class C,D,E,F upcoming;
+    section Enhancements
+    Map Extraction API    :active,  a3, 2025-03-01, 25d
+    Excel Export          :         a4, after a3, 20d
+
+    section Future
+    AI Insights           :         a5, 2025-05-01, 30d
+    Dashboard UI          :         a6, 2025-06-01, 40d
 ```
-
----
-
-### ⚡ Progress Journey
-
-🟢 **Core Engine** → Completed  
-🔵 **Search Functionality** → In Progress  
-⚪ **LLM Understanding & Agent Summary** → Next  
-⚪ **Product & Flight Intelligence** → Planned  
-
----
-
-### 🚀 Feature Evolution Timeline
-
-```
-Core Engine        ██████████ 100%
-Search Engine      ███████░░░ 70%
-LLM Intelligence   █████░░░░░ 50%
-Agent Summary      ███░░░░░░░ 30%
-Data Intelligence  ██░░░░░░░░ 20%
-```
-
----
-
-✨ Building the future of **AI-powered web intelligence**.
