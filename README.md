@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## 🗺️ GcrawlAI Roadmap
 
 ### ✅ Completed Core Features
@@ -50,3 +51,6 @@ GcrawlAI is evolving from a **web scraping engine** into an **AI-powered data in
 ---
 
 ⭐ Stay tuned for exciting updates!
+=======
+# new_imp
+>>>>>>> 434f81b (new)
