@@ -76,29 +76,73 @@ Local filesystem or AWS S3. Date-based organization, original PDF preservation, 
 
 ## ✨ Key Features
 
-<div align="start">
+<table>
+  <tr>
+    <th align="left">🚀 Feature</th>
+    <th align="left">⚡ Description</th>
+  </tr>
 
-| 🧠 | 📄 | ⚡ |
-|---|---|---|
-| **Multi-Engine OCR** | **Schema-Based Extraction** | **Intelligent Chunking** |
-| OlmOCR, Qwen2.5-7B VL, Gemini 2.0/2.5, Chandra with intelligent routing | Recursive schema definitions for complex nested data structures | Auto segmentation + manual splitting for edge cases |
+  <tr>
+    <td>🧠 Multi-Engine OCR</td>
+    <td>OlmOCR, Qwen2.5-7B VL,<br>Gemini 2.0/2.5, Chandra</td>
+  </tr>
 
-| 📧 | 🌐 | 🔐 |
-|---|---|---|
-| **Email Integration** | **Dual Storage** | **JWT Security** |
-| SMTP/IMAP monitoring for automatic document ingestion | Local FS or AWS S3 with date-based organization | Secure API with token refresh & API keys |
+  <tr>
+    <td>📄 Schema Extraction</td>
+    <td>Recursive schemas for nested data</td>
+  </tr>
 
-| 🔄 | 🔔 | 📊 |
-|---|---|---|
-| **Conflict Resolution** | **Webhooks** | **Field Validation** |
-| Multi-model result merging with confidence scoring | Real-time processing notifications | Schema-based validation with null handling |
+  <tr>
+    <td>⚡ Intelligent Chunking</td>
+    <td>Auto segmentation + manual splitting</td>
+  </tr>
 
-| 🚀 | 📋 | 🔍 |
-|---|---|---|
-| **Background Processing** | **Comprehensive Logging** | **Cross-Page Extraction** |
-| Asynchronous jobs with priority queues | Rotating logs, error tracking, audit trails | Seamless multi-page data extraction |
+  <tr>
+    <td>📧 Email Integration</td>
+    <td>SMTP / IMAP document ingestion</td>
+  </tr>
 
-</div>
+  <tr>
+    <td>🌐 Dual Storage</td>
+    <td>Local FS or AWS S3</td>
+  </tr>
+
+  <tr>
+    <td>🔐 JWT Security</td>
+    <td>Token auth + API keys</td>
+  </tr>
+
+  <tr>
+    <td>🔄 Conflict Resolution</td>
+    <td>Confidence-based result merging</td>
+  </tr>
+
+  <tr>
+    <td>🔔 Webhooks</td>
+    <td>Real-time processing notifications</td>
+  </tr>
+
+  <tr>
+    <td>📊 Field Validation</td>
+    <td>Schema validation + null handling</td>
+  </tr>
+
+  <tr>
+    <td>🚀 Background Processing</td>
+    <td>Async jobs with priority queues</td>
+  </tr>
+
+  <tr>
+    <td>📋 Logging</td>
+    <td>Rotating logs, error tracking, audit trails</td>
+  </tr>
+
+  <tr>
+    <td>🔍 Cross-Page Extraction</td>
+    <td>Seamless multi-page data extraction</td>
+  </tr>
+
+</table>
 
 <br>
 
